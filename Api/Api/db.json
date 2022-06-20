@@ -1,0 +1,44 @@
+{
+  "getit": [
+    {
+      "id": 1,
+      "email": "tanmay",
+      "password": "ironman"
+    },
+    {
+      "email": "Adam4543@gmail.com",
+      "password": "Adam*is#%3jjfl",
+      "id": 2
+    },
+    {
+      "email": "tan@gmail.com",
+      "password": "thor*w080",
+      "id": 4
+    },
+    {
+      "email": "tanmayrathod@gmial.com",
+      "password": "thoewrfls@#rfwwjsljf",
+      "id": 5
+    },
+    {
+      "email": "tan@gmail.com",
+      "password": "thor*w080",
+      "id": 6
+    },
+    {
+      "email": "name@gmail.com",
+      "password": "Thor@$39830",
+      "id": 7
+    },
+    {
+      "email": "sfsjkflsf@gmail.com",
+      "password": "ssfsfifhfioufhw",
+      "id": 8
+    },
+    {
+      "email": "tanmayrathod@gmial.com",
+      "password": "thoewrfls@#rfwwjsljf",
+      "id": 9
+    }
+  ]
+}
